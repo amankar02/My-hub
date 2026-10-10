@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded Task Clipboard / Card Base -->
+    <path
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,80 C30,82.2 31.8,84 34,84 L74,84 C76.2,84 78,82.2 78,80 L78,30 C78,27.8 76.2,26 74,26 L66,26 C66,23.8 64.2,22 62,22 L46,22 C43.8,22 42,23.8 42,26 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Top Clip Detail -->
+    <path
+        android:pathData="M46,24 L62,24 C63.1,24 64,24.9 64,26 L64,28 C64,29.1 63.1,30 62,30 L46,30 C44.9,30 44,29.1 44,28 L44,26 C44,24.9 44.9,24 46,24 Z"
+        android:fillColor="#6366F1" />
+    
+    <!-- Task Row 1: Checkbox + Line -->
+    <path
+        android:pathData="M37,39 C37,37.3 38.3,36 40,36 C41.7,36 43,37.3 43,39 C43,40.7 41.7,42 40,42 C38.3,42 37,40.7 37,39 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M47,38 L70,38"
+        android:strokeWidth="3"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+
+    <!-- Task Row 2: Checkbox + Line -->
+    <path
+        android:pathData="M37,51 C37,49.3 38.3,48 40,48 C41.7,48 43,49.3 43,51 C43,52.7 41.7,54 40,54 C38.3,54 37,52.7 37,51 Z"
+        android:fillColor="#6366F1" />
+    <path
+        android:pathData="M47,50 L66,50"
+        android:strokeWidth="3"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+
+    <!-- Task Row 3: Checkbox + Line -->
+    <path
+        android:pathData="M37,63 C37,61.3 38.3,60 40,60 C41.7,60 43,61.3 43,63 C43,64.7 41.7,66 40,66 C38.3,66 37,64.7 37,63 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M47,62 L60,62"
+        android:strokeWidth="3"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+
+    <!-- Hero Glowing Done Check Badge in lower right -->
+    <path
+        android:pathData="M68,68 A14,14 0 1,0 68,96 A14,14 0 1,0 68,68"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M61,82 L66,87 L75,76"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

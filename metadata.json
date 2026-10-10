@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow",
+  "description": "Daily tasking app with smart daily planner, priority matrix, categories, subtasks, habit streaks, and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
